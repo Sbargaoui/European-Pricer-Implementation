@@ -1,0 +1,26 @@
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\archivage_cours.mdb
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Interface de Pricing.exe.config
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Interface de Pricing.exe.manifest
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Interface de Pricing.application
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Interface de Pricing.exe
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Interface de Pricing.pdb
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Interface de Pricing.xml
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Interface de Pricing.exe.CodeAnalysisLog.xml
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Interface de Pricing.exe.lastcodeanalysissucceeded
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Interface de Pricing.vbproj.ResolveComReference.cache
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\InterfaceDePricing.Form2.resources
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\InterfaceDePricing.Form1.resources
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\InterfaceDePricing.Resources.resources
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\InterfaceDePricing.RadAboutBox1.resources
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\InterfaceDePricing.RadForm1.resources
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\InterfaceDePricing.RadForm2.resources
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\InterfaceDePricing.RadForm3.resources
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\InterfaceDePricing.RadForm5.resources
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Interface de Pricing.vbproj.GenerateResource.Cache
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Interface de Pricing.exe.licenses
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Interface de Pricing.exe.manifest
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Interface de Pricing.application
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Interface de Pricing.exe
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Interface de Pricing.xml
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Interface de Pricing.pdb
+C:\Users\Rim\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\InterfaceDePricing.RadForm6.resources

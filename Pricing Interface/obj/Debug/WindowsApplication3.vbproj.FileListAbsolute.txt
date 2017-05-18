@@ -1,0 +1,20 @@
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.ResolveComReference.cache
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.RadForm1.resources
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\archivage_cours.mdb
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.RadAboutBox1.resources
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.RadForm2.resources
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Interface de Pricing.exe.config
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Interface de Pricing.exe
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Interface de Pricing.pdb
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Interface de Pricing.xml
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Interface de Pricing.exe.CodeAnalysisLog.xml
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Interface de Pricing.exe.lastcodeanalysissucceeded
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Interface de Pricing.exe.licenses
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Interface de Pricing.exe
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Interface de Pricing.xml
+C:\Users\Rim\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Interface de Pricing.pdb
