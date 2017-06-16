@@ -1,17 +1,25 @@
 # European Option Pricing with C++/.Net
 
+## Abstract
+
+We will present few modeling theories that allow us to compute the premium of the currency options. Then, estimating the volatility term structure essential for computing the premiums.
+
+
+In order to prevail from the risks, we will present trading strategies involving options. We will also, using and empiric study, justify our choices regarding the term structure models chosen through this work.
+
+
+Finally, we will compute the premium using all the models and compare between each and every one of them, then highlight the use and importance of hedging exposure using Greeks.
+
+
+Keywords : Forex, Pricing, Garman-Kohlhagen, Discrete Models, Jump Models, Hedging strategies, Volatility...
+
+
 ## Overview
 
 This repository is part of a project to build a solution from scratch, to price and hedge Euro options on FX and present it in a UI.
 
 The main tools are C++/.Net/C#.
 
-/*## Screenshots
-
-/*![Map-focus](images/map-focus.png)
-![Datatables](images/datatable.png)
-![Delays](images/delay-vs-nb-active-trains.png)
-![Map](images/map.png)*/
 
 ## The main steps
 
