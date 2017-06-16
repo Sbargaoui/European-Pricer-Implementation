@@ -32,34 +32,34 @@ The main tools are C++/.Net/C#.
 
 #### Continuous Diffusions :
 
-⋅⋅* Brownian Motion
-⋅⋅* Geometric Brownian Motion
-⋅⋅* CIR
-⋅⋅* Square Bessel Process
-⋅⋅* Ornstein Uhlenbeck process
-⋅⋅* Time-integrated Ornstein Uhlenbeck process UD
-⋅⋅* Levy Processes
-⋅⋅* Jump Diffusions
+- Brownian Motion
+- Geometric Brownian Motion
+- CIR
+- Square Bessel Process
+- Ornstein Uhlenbeck process
+- Time-integrated Ornstein Uhlenbeck process UD
+- Levy Processes
+- Jump Diffusions
 
 
 #### Gamma process :
-⋅⋅* Variance-gamma process
-⋅⋅* Geometric Gamma process
-⋅⋅* Step Processes
+- Variance-gamma process
+- Geometric Gamma process
+- Step Processes
 
 
 #### Renewal process
-⋅⋅* Poisson process 
+- Poisson process 
 
 #### Volatility modelling :
-⋅⋅* Implied volatility
-⋅⋅* Historical volatility
+- Implied volatility
+- Historical volatility
 
 #### Pricing models :
-⋅⋅* Garman & Kohlhagen's model
-⋅⋅* Merton's jump model
-⋅⋅* Monte-Carlo simulations w/o variance reduction techniques
-⋅⋅* Tree models
+- Garman & Kohlhagen's model
+- Merton's jump model
+- Monte-Carlo simulations w/o variance reduction techniques
+- Tree models
 
 ## Source code and raw data
 Source code is available here on github.
