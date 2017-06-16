@@ -1,4 +1,5 @@
 # European Option Pricing with C++/.Net
+Under MIT License.
 
 ## Abstract
 
