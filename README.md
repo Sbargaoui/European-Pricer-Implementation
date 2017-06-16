@@ -24,35 +24,46 @@ The main tools are C++/.Net/C#.
 ## The main steps
 
 ### Data preprocessing
-- Preprocess trains stops times and delays in right format.
-- Preprocess stations data in right format.
-- Create JSON file describing graph egdes between stations.
+- Preprocess data : interest rates, FX rates, volatility, ...
+- Scrapping routine results preprocessing : cleaning, regexes, standardization.
+- Create JSON/csv files regrouping most of the data.
 
-### Vizualization initialization
-- Parse data.
-- Create graphs.
-- Preprocess trains' trips to find shortest path and extrapolate missing data about delays.
-- Preprocess summary of trains' delays.
-- Render interaction tools (sliders/buttons).
-- Render initial map: stations, subsections.
-- Render initial datatable.
-- Render graph of delays over day.
+### Implemented models and routines (Both finished and under development)
 
-### Rendering at each time change
-- Compute active trips state.
-- Compute network state.
-- Cender trains.
-- Cender subsections jams.
-- cender datatable.
+#### Continuous Diffusions :
 
-## Credits
-The amazing work done by Michael Barry and Brian Card on the  [MBTA](http://mbtaviz.github.io/) has inspired me. Both for visual conception, and some tricky parts of code for geometrical calculations.
+⋅⋅* Brownian Motion
+⋅⋅* Geometric Brownian Motion
+⋅⋅* CIR
+⋅⋅* Square Bessel Process
+⋅⋅* Ornstein Uhlenbeck process
+⋅⋅* Time-integrated Ornstein Uhlenbeck process UD
+⋅⋅* Levy Processes
+⋅⋅* Jump Diffusions
 
-I also used the following javascript libraries: es6-shim, underscore, moment, d3, c3, jquery, bootstrap, datatables.
+
+#### Gamma process :
+⋅⋅* Variance-gamma process
+⋅⋅* Geometric Gamma process
+⋅⋅* Step Processes
+
+
+#### Renewal process
+⋅⋅* Poisson process 
+
+#### Volatility modelling :
+⋅⋅* Implied volatility
+⋅⋅* Historical volatility
+
+#### Pricing models :
+⋅⋅* Garman & Kohlhagen's model
+⋅⋅* Merton's jump model
+⋅⋅* Monte-Carlo simulations w/o variance reduction techniques
+⋅⋅* Tree models
 
 ## Source code and raw data
 Source code is available here on github.
 Raw data comes from:
-- Transilien gtfs files on their website
-- Extraction of their API I made available on an AWS S3 container here.
-
+- Bloomberg.
+- Web Scrapping.
+- Internal data.
